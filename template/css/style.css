@@ -1,0 +1,73 @@
+
+* {
+     -moz-box-sizing: border-box;
+     -webkit-box-sizing: border-box;
+     box-sizing: border-box;
+}
+
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.alignright {
+	float: right;
+	padding: 0 0 10px 10px;
+}
+
+.alignleft {
+	float: left;
+	padding: 0 10px 10px 0;
+}
+
+
+body {
+  color: #000;
+  font-size: 12px;
+  line-height: 1.4;
+  font-family: Helvetica, Arial, sans-serif;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+  background: black;
+  color: lime;
+  margin: 3em;
+  background: url(https://i.pinimg.com/originals/4f/c0/f0/4fc0f0f064efca1ca862b722483803f6.jpg);
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+  background-size: cover;
+}
+
+
+header{
+  height: 100px;
+  border: 1px solid black;
+}
+
+  #bomberman{
+    height: 350px;
+    width: 350px;
+    background: url(http://static.tvtropes.org/pmwiki/pub/images/bomberman.png)center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+    position:absolute; top:140px; left:140px;
+
+  }
+
+@media (min-width:768px) and (max-width:960px){
+  .mid{
+    background: purple;
+  }
+
+}
