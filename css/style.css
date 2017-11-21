@@ -1,15 +1,10 @@
-/******************************************
-/* SETUP
-/*******************************************/
 
-/* Box Model Hack */
 * {
-     -moz-box-sizing: border-box; /* Firexfox */
-     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
-     box-sizing: border-box; /* IE */
+     -moz-box-sizing: border-box;
+     -webkit-box-sizing: border-box;
+     box-sizing: border-box;
 }
 
-/* Clear fix hack */
 .clearfix:after {
      content: ".";
      display: block;
@@ -25,23 +20,20 @@
 
 .alignright {
 	float: right;
-	padding: 0 0 10px 10px; /* note the padding around a right floated image */
+	padding: 0 0 10px 10px;
 }
 
 .alignleft {
 	float: left;
-	padding: 0 10px 10px 0; /* note the padding around a left floated image */
+	padding: 0 10px 10px 0;
 }
 
-/******************************************
-/* BASE STYLES
-/*******************************************/
 
 body {
-     color: #000;
-     font-size: 12px;
-     line-height: 1.4;
-     font-family: Helvetica, Arial, sans-serif;
+  color: #000;
+  font-size: 12px;
+  line-height: 1.4;
+  font-family: Helvetica, Arial, sans-serif;
   font-family: monospace;
   font-size: 20px;
   text-align: center;
@@ -55,29 +47,6 @@ body {
   background-size: cover;
 }
 
-/******************************************
-/* LAYOUT
-/*******************************************/
-
-/* Center the container */
-#container {
-	width: 960px;
-	margin: auto;
-}
-
-header {
-
-}
-
-footer {
-
-
-}
-
-
-/******************************************
-/* ADDITIONAL STYLES
-/*******************************************/
 
 header{
   height: 100px;
@@ -85,18 +54,16 @@ header{
 }
 
   #bomberman{
-    height: 250px;
-    width: 250px;
-    background: url(http://static.tvtropes.org/pmwiki/pub/images/bomberman.png);
+    height: 350px;
+    width: 350px;
+    background: url(http://static.tvtropes.org/pmwiki/pub/images/bomberman.png)center;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
     background-size: cover;
+    position:absolute; top:140px; left:140px;
 
   }
-
-
-
 
 @media (min-width:768px) and (max-width:960px){
   .mid{
