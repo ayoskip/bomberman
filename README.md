@@ -17,7 +17,7 @@ No matter what your experience level, being an engineer means continuously learn
 Take a look at these couple examples that I have in my own portfolio:
 
 
-![alt tag](http://)
+![alt tag](http:// https://codepen.io/Ayo_Skip/pen/eepGvr)
 
 
 
