@@ -1,12 +1,14 @@
 # Bomberman
-The Bomberman assignment was completed in Bootcamp 2017c with Resilient Coders. Assignment asked for Bomberman to move with arrow keys
+First of many asssignments completed during winter Full Stack bootcamp with Resilient Coders. 
 
 **Link to project:** https://codepen.io/Ayo_Skip/pen/eepGvr
 
 ## How It's Made:
+Nothing fancy here just a simple background image with another image sized with CSS and JS to make the image move.
+
 
 **Tech used:** HTML, CSS, JavaScript
 
 ## Lessons Learned:
-I learned how to move object with event listeners.
+This was my first experience of successfully coding something that worked. That "WHOA" moment where I felt like I had solidified myself as a Developer.
 
