@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Awesome Project
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
@@ -30,4 +31,19 @@ Take a look at these couple examples that I have in my own portfolio:
 **Patch Panel:** https://github.com/alecortega/patch-panel
 
 
+=======
+# Bomberman
+First of many asssignments completed during winter Full Stack bootcamp with Resilient Coders. 
+
+**Link to project:** https://codepen.io/Ayo_Skip/pen/eepGvr
+
+## How It's Made:
+Nothing fancy here just a simple background image with another image sized with CSS and JS to make the image move.
+
+
+**Tech used:** HTML, CSS, JavaScript
+
+## Lessons Learned:
+This was my first experience of successfully coding something that worked. That "WHOA" moment where I felt like I had solidified myself as a Developer.
+>>>>>>> 3f86287396c3e94ecdbe02bdace2938f97fe93e3
 
