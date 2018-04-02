@@ -1,39 +1,34 @@
 <<<<<<< HEAD
 # My Awesome Project
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+This is one of my first coding projects. Assignment was to create a replica of Bomberman and make an element move on key press.
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript,
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Created background using an image in HTML that I found through Google. Placed an image on top of the background and styled it with CSS. Once I had a background with an image of Bomberman I used jQuery to move the object on key press.
 
-## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+I learned how to interact with HTML,CSS, and JS in the same project.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+**Ayo_Skip:** https://ayoskip.github.io
 
-**Palettable:** https://github.com/alecortega/palettable
+**Rock Paper Scissors:** https://ayoskip.github.io/Rocks.Papers.Scissors/
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
 
 
 =======
 # Bomberman
-First of many asssignments completed during winter Full Stack bootcamp with Resilient Coders. 
+First of many asssignments completed during winter Full Stack bootcamp with Resilient Coders.
 
 **Link to project:** https://codepen.io/Ayo_Skip/pen/eepGvr
 
@@ -46,4 +41,3 @@ Nothing fancy here just a simple background image with another image sized with 
 ## Lessons Learned:
 This was my first experience of successfully coding something that worked. That "WHOA" moment where I felt like I had solidified myself as a Developer.
 >>>>>>> 3f86287396c3e94ecdbe02bdace2938f97fe93e3
-
