@@ -3,7 +3,9 @@
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 This is one of my first coding projects. Assignment was to create a replica of Bomberman and make an element move on key press.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://ayoskip.github.io/bomberman/
+
+<![alt tag](bomberman.png)
 
 
 
@@ -12,7 +14,6 @@ This is one of my first coding projects. Assignment was to create a replica of B
 **Tech used:** HTML, CSS, JavaScript,
 
 Created background using an image in HTML that I found through Google. Placed an image on top of the background and styled it with CSS. Once I had a background with an image of Bomberman I used jQuery to move the object on key press.
-
 
 
 ## Lessons Learned:
@@ -24,13 +25,10 @@ I learned how to interact with HTML,CSS, and JS in the same project.
 **Rock Paper Scissors:** https://ayoskip.github.io/Rocks.Papers.Scissors/
 
 
-
-
-=======
 # Bomberman
 First of many asssignments completed during winter Full Stack bootcamp with Resilient Coders.
 
-**Link to project:** https://codepen.io/Ayo_Skip/pen/eepGvr
+**Link to project:** https://ayoskip.github.io/bomberman/
 
 ## How It's Made:
 Nothing fancy here just a simple background image with another image sized with CSS and JS to make the image move.
@@ -40,4 +38,3 @@ Nothing fancy here just a simple background image with another image sized with 
 
 ## Lessons Learned:
 This was my first experience of successfully coding something that worked. That "WHOA" moment where I felt like I had solidified myself as a Developer.
->>>>>>> 3f86287396c3e94ecdbe02bdace2938f97fe93e3
