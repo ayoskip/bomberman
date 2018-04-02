@@ -8,7 +8,6 @@ This is one of my first coding projects. Assignment was to create a replica of B
 <![alt tag](bomberman.png)
 
 
-
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript,
